@@ -1,0 +1,2 @@
+LDLIBS = -ldb
+akey:
